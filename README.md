@@ -7,3 +7,9 @@ I have worked with web develope with HTML, CSS and Java Scrip ,but know i am wor
 my web dev skills you can check my Personal-website repo on my profile !
 
 ### 🧠 Languages and tools
+<img align ="left" alt="Htnml" width="30px" style="padding-right:10px;" source="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+<img align ="left" alt="CSS" width="30px" style="padding-right:10px;" source="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img align ="left" alt="C" width="30px" style="padding-right:10px;" source="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align ="left" alt="VB" width="30px" style="padding-right:10px;" source="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+            
+           
