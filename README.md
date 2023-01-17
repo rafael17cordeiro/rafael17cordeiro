@@ -20,6 +20,6 @@ my web dev skills you can check my Personal-website repo on my profile !
 # Personal Website Repo 🌐
 
 **`⚒️ Steel working on it `**
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="C:\Users\rafae\Downloads\website2.png" /><br>
 
