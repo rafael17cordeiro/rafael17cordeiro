@@ -23,12 +23,12 @@ my web dev skills you can check my Personal-website repo on my profile !
 
 
 ### <a href="https://github.com/rafael17cordeiro/Personal-Website">Rafael Cordeiro</a>
-![image](https://user-images.githubusercontent.com/59150464/213029170-c0abc1ad-752b-4ec3-9ed8-2d79be567a57.png)
+![image](https://user-images.githubusercontent.com/59150464/213029170-c0abc1ad-752b-4ec3-9ed8-2d79be567a57.png)<br>
 
 
 ---
 # IOS Calculator Repo 🌐
 
-**`⚒️ Steel working on it `**
+**`⚒️ Steel working on it `**<br>
 <a href="[https://github.com/rafael17cordeiro/Personal-Website](https://github.com/rafael17cordeiro/Calculadora-vb.net)">Rafael Cordeiro</a>
-![Untitled-1](https://user-images.githubusercontent.com/59150464/213033442-9575d5ee-1e04-48d6-b212-5df2b640dcc3.jpg)
+![Untitled-1](https://user-images.githubusercontent.com/59150464/213033687-a64da807-5fae-49b0-bf3e-36fde33ef13a.jpg)
