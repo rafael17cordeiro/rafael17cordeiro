@@ -21,5 +21,5 @@ my web dev skills you can check my Personal-website repo on my profile !
 
 **`⚒️ Steel working on it `**
 
-<img src="C:\Users\rafae\Downloads\website2.png" /><br>
+<img align="left" alt="website" width="30px" style="padding-right:10px;" src="https://ibb.co/34HyV2j" /><br>
 
