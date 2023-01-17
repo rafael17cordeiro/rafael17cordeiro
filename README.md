@@ -30,5 +30,5 @@ my web dev skills you can check my Personal-website repo on my profile !
 # ios Calcultor  Repo 🌐
 
 **`⚒️ Steel working on it `**
-### <a href="https://github.c![Untitled-1](https://user-images.githubusercontent.com/59150464/213033322-d1956573-1153-4a08-b92a-6f06ea8c6393.jpg)
-om/rafael17cordeiro/Calculadora-vb.net">Calculator</a>
+
+![Untitled-1](https://user-images.githubusercontent.com/59150464/213033442-9575d5ee-1e04-48d6-b212-5df2b640dcc3.jpg)
