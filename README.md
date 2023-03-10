@@ -18,7 +18,7 @@ my web dev skills you can check my Personal-website repo on my profile !
 
 # Personal Website Repo 🌐
 
-**`⚒️ Steel working on it `**
+**`⚒️ Still working on it `**
 
 
 ### <a href="https://github.com/rafael17cordeiro/Personal-Website">Rafael Cordeiro</a>
