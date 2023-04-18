@@ -22,7 +22,7 @@ my web dev skills you can check my Personal-website repo on my profile !
 
 
 ### <a href="https://github.com/rafael17cordeiro/Personal-Website">Rafael Cordeiro</a>
-![image](https://user-images.githubusercontent.com/59150464/213029170-c0abc1ad-752b-4ec3-9ed8-2d79be567a57.png)<br>
+![website](https://user-images.githubusercontent.com/59150464/232926436-afa85513-298f-4952-a324-6fe9f8fa7df4.jpg)
 
 
 ---
