@@ -26,7 +26,17 @@ my web dev skills you can check my Personal-website repo on my profile !
 
 
 ---
+# Learning Javascrip 🌐
 
+**`⚒️ Still working on it `**<br>
+
+<a href="https://github.com/rafael17cordeiro/Learning-javascript"> Learning Javascrip </a>
+
+this project contains html,css and javascrip it is a simple rpg game , to put in practice beginner skills !
+
+![Untitled-1](https://user-images.githubusercontent.com/59150464/233501156-9451cf86-3107-4e77-8462-b0f2e5b3d91d.jpg)
+
+---
 # Bus Ticket Simulater 🌐
 
 **`⚒️ Still working on it `**<br>
