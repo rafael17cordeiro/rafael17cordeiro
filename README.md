@@ -28,7 +28,6 @@ my web dev skills you can check my Personal-website repo on my profile !
 ---
 # Learning Javascrip 🌐
 
-**`⚒️ Still working on it `**<br>
 
 <a href="https://github.com/rafael17cordeiro/Learning-javascript"> Learning Javascrip </a>
 
