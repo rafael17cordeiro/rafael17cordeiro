@@ -18,7 +18,6 @@ my web dev skills you can check my Personal-website repo on my profile !
 
 # Personal Website Repo 🌐
 
-**`⚒️ Still working on it `**
 
 
 ### <a href="https://github.com/rafael17cordeiro/Personal-Website">Rafael Cordeiro</a>
@@ -38,7 +37,6 @@ this project contains html,css and javascrip it is a simple rpg game , to put in
 ---
 # Bus Ticket Simulater 🌐
 
-**`⚒️ Still working on it `**<br>
 
 <a href="https://github.com/rafael17cordeiro/Autocarro"> Bus Ticket Simulater</a>
 
