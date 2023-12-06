@@ -25,7 +25,8 @@ Welcome to my profile. I am a 17 year old boy, looking forward to improve my pro
 
 ---
 # School Project 🌐
-<a href="https://github.com/rafael17cordeiro//School-Project"> Learning Javascrip </a>
+
+###<a href="https://github.com/rafael17cordeiro//School-Project"> School Project  </a>
 
 This project showcases a simulated website for the fictional gaming company, GameMasters Inc., as part of a school assignment requiring HTML, CSS, and JavaScript skills.
 
