@@ -24,7 +24,7 @@ Welcome to my profile. I am a 17 year old boy, looking forward to improve my pro
 
 
 ---
-# School Project 🌐
+# School Project - Repo🌐
 
 ### <a href="https://github.com/rafael17cordeiro//School-Project"> School Project  </a>
 
@@ -50,7 +50,7 @@ This repository contains the project's source code and files, providing insights
 # Learning Javascrip 🌐
 
 
-<a href="https://github.com/rafael17cordeiro/Learning-javascript"> Learning Javascrip </a>
+### <a href="https://github.com/rafael17cordeiro/Learning-javascript"> Learning Javascrip - Repo</a>
 
 this project contains html,css and javascrip it is a simple rpg game , to put in practice beginner skills !
 
@@ -60,7 +60,7 @@ this project contains html,css and javascrip it is a simple rpg game , to put in
 # Bus Ticket Simulater 🌐
 
 
-<a href="https://github.com/rafael17cordeiro/Autocarro"> Bus Ticket Simulater</a>
+### <a href="https://github.com/rafael17cordeiro/Autocarro"> Bus Ticket Simulater - Repo</a>
 
 It is a simple Bus Ticket Simulater in vb.net , it simulates the purshace and it has a admin control panel where it can disable the seats , checks who bought it and check how much money was made , and its all store is 3 files !
 
