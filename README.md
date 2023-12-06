@@ -67,6 +67,7 @@ This repository contains the project's source code and files, providing insights
 
 ---
 # Bus Ticket Simulator App 🚌💳
+### <a href="[https://github.com/rafael17cordeiro/a](https://github.com/rafael17cordeiro/Bus-ticket-simulater)"> Bus Ticket Simulater - Repo</a>
 
 Welcome to the Bus Ticket Simulator, a simple yet powerful application built in VB.NET! This simulation software replicates the purchase process for bus tickets, offering both users and administrators control over the ticketing system.
 
