@@ -91,9 +91,10 @@ This VB.NET application offers a comprehensive experience for users to simulate 
 
 ---
 # VB.NET Calculator Repository 🧮🔢
+### <a href="https://github.com/rafael17cordeiro/Calculadora-vb.net.git">Calculator - Repo</a>
 
 Welcome to the VB.NET Calculator repository! This project houses a comprehensive calculator application built using VB.NET, providing a range of mathematical functionalities in a user-friendly interface.
-### <a href="https://github.com/rafael17cordeiro/Calculadora-vb.net.git">Calculator</a>
+
 ![Untitled-1](https://user-images.githubusercontent.com/59150464/213033687-a64da807-5fae-49b0-bf3e-36fde33ef13a.jpg)
 
 
