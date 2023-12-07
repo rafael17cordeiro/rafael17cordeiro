@@ -4,13 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Rafael+Cordeiro;I'm+17+years+old;I'm+from+Portugal;I'm+A+Student;Welcome!+:%29)](https://git.io/typing-svg)
 <br><br>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rafael17cordeiro/rafael17cordeiro/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
 
 
 
@@ -18,7 +12,13 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafael17cordeiro&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Cordeiro github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael17cordeiro&layout=compact&hide_border=true&title_color=1E90FF&text_color=ff91a4&bg_color=0d1117" />
 </div><br><br><br><br><br><br>
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rafael17cordeiro/rafael17cordeiro/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 <div align="center"> 
   <a href="mailto:rafael17cordeiro@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
