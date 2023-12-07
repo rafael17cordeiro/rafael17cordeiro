@@ -4,6 +4,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Rafael+Cordeiro;I'm+17+years+old;I'm+from+Portugal;I'm+A+Student;Welcome!+:%29)](https://git.io/typing-svg)
 <br><br>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rafael17cordeiro/rafael17cordeiro/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
 
