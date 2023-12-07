@@ -14,7 +14,6 @@
 </div><br><br><br><br><br><br>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rafael17cordeiro/rafael17cordeiro/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
