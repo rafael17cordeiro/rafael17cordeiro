@@ -9,9 +9,8 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafael17cordeiro&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Cordeiro github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael17cordeiro&layout=compact&hide_border=true&title_color=1E90FF&text_color=ff91a4&bg_color=0d1117" />
-</div><br><br><br>
+</div><br>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rafael17cordeiro/rafael17cordeiro/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
@@ -38,7 +37,10 @@
 <img align="left" alt="VB" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /><br><br><br><br>
+<img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+<br><br><br><br>
 
 🎓<b>These languages and tools were a part of my educational curriculum, providing a foundational understanding of web development (HTML, CSS, JavaScript, PHP), software development (C++, Python), and IDEs like Visual Studio (VB.NET)</b>
 
