@@ -11,18 +11,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-      - uses: Platane/snk@master
+      - name: Generate the snake
+        uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: rafael17cordeiro
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - run: git status
+      - name: Display status
+        run: git status
 
-      - name: Set output to environment variable
+      - name: Set snake GIF as an environment variable
         run: echo "SNAKE_GIF=${{ steps.snake-gif.outputs.gif_file }}" >> $GITHUB_ENV
 
       - name: Push changes
