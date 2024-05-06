@@ -41,6 +41,8 @@
 <img align="center" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="center" alt="PHP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="center" alt="MySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="center" alt="Cypress" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" />
+
 <br><br><br><br>
 
 🎓<b>These languages and tools were a part of my educational curriculum, providing a foundational understanding of web development (HTML, CSS, JavaScript, PHP), software development (C++, Python), and IDEs like Visual Studio (VB.NET)</b>
