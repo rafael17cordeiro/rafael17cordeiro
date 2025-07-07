@@ -7,7 +7,6 @@
 
 ---
 
-### 🔥 GitHub Stats
 
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafael17cordeiro&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=00000000" alt="GitHub Stats" />
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael17cordeiro&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=00000000" alt="Top Languages" />
