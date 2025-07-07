@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=28&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer+in+Training;Passionate+about+Technology+and+Innovation;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=30&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+from+Portugal;Welcome+to+my+GitHub!" />
 </p>
 
 ---
