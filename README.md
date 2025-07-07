@@ -53,10 +53,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
 
 
-# Personal Website Repo 🌐
-
-
-
-### <a href="https://github.com/rafael17cordeiro/Personal-Website">Rafael Cordeiro</a>
-![website](https://user-images.githubusercontent.com/59150464/233190018-4ad15d48-cf4a-4b42-b12a-a9bfa2c2cdca.jpg)
 
