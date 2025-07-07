@@ -14,7 +14,7 @@
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael17cordeiro&layout=compact&hide_border=true&title_color=1E90FF&text_color=ff91a4&bg_color=00000000" alt="Top Languages" />
 
 
-</div>
+
 
 ---
 
@@ -65,3 +65,4 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
+</div>
