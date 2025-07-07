@@ -2,27 +2,29 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
+# 👋 Hello, I'm Rafael Cordeiro
+
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=30&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+from+Portugal;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=30&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+from+Portugal;Welcome+to+my+GitHub+profile!" />
 </p>
-
----
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafael17cordeiro&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=00000000" alt="GitHub Stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael17cordeiro&layout=compact&hide_border=true&title_color=1E90FF&text_color=ff91a4&bg_color=00000000" alt="Top Languages" />
-
-
 
 </div>
 
 ---
 
-## 🧰 Languages & Tools Learned in College
+<div align="center">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafael17cordeiro&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=00000000" alt="GitHub Stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael17cordeiro&layout=compact&hide_border=true&title_color=1E90FF&text_color=ff91a4&bg_color=00000000" alt="Top Languages" />
+</div>
+
+---
+
+## 🧰 Technical Skills
 
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-264de4?logo=css3&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-264de4?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -35,15 +37,23 @@
 
 ---
 
-🎓 These technologies are part of my academic background in Computer Science, focusing on web development, programming, and testing.
+## 🎓 Academic Background
+
+💻 I'm a Computer Science student from Portugal, with a strong focus on:
+
+- **Web Development** (Front-End and Back-End)
+- **Software Engineering**
+- **Databases & SQL**
+- **Object-Oriented Programming**
+- **Software Testing (Cypress, Unit Tests)**
+
+I enjoy building useful and interactive web projects and continuously seek to improve my skills and knowledge.
 
 ---
-## 📫 Contact
+
+## 📫 Get in Touch
 
 <div align="center">
-
-
-
 
 <a href="mailto:rafael17cordeiro@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
