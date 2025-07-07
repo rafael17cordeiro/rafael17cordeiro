@@ -7,7 +7,7 @@
 </h1>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=30&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+from+Portugal;Passionate+about+technology+and+development;Always+learning+something+new+🚀;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=30&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+from+Portugal;Welcome+to+my+GitHub!" />
 </p>
 
 <br>
