@@ -36,15 +36,6 @@
 
 ---
 
-### 📘 About Me
-
-- 👨‍🎓 Currently studying Computer Science with a focus on Web Development and Testing  
-- 💡 Always exploring new technologies and tools  
-- 📁 Working on personal projects related to automation and dashboards  
-- 🌱 Interested in IoT, AI, and distributed systems  
-
----
-
 ### 📫 Contact Me
 
 <div align="center">
