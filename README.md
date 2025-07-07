@@ -40,9 +40,10 @@
 
 ---
 
+<div align="center">
 ## 📫 Contact
 
-<div align="center">
+
 
 <a href="mailto:rafael17cordeiro@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
