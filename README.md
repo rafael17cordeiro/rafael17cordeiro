@@ -3,11 +3,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
 <h1>
-  👋 Olá, eu sou o Rafael Cordeiro
+  👋 Hello, I'm Rafael Cordeiro
 </h1>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=30&center=true&vCenter=true&width=1000&lines=Estudante+de+Computação+em+Portugal;Apaixonado+por+tecnologia+e+desenvolvimento;Sempre+em+busca+de+aprender+algo+novo+🚀;Bem-vindo+ao+meu+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=30&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+from+Portugal;Passionate+about+technology+and+development;Always+learning+something+new+🚀;Welcome+to+my+GitHub!" />
 </p>
 
 <br>
@@ -21,7 +21,7 @@
 
 <br><br><br>
 
-## 🧰 Linguagens e Ferramentas Aprendidas na Faculdade
+## 🧰 Languages & Tools Learned in College
 
 <br>
 
@@ -37,11 +37,11 @@
 
 <br><br>
 
-🎓 <b>Essas tecnologias fazem parte da minha formação em Computação, com foco em desenvolvimento web, programação e testes.</b>
+🎓 <b>These technologies are part of my academic background in Computer Science, focusing on web development, programming, and testing.</b>
 
 <br><br><br>
 
-## 📫 Contato
+## 📫 Contact
 
 <br>
 
