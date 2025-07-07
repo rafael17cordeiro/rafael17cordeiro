@@ -10,9 +10,8 @@
 
 ---
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafael17cordeiro&show_icons=true&count_private=true&hide_border=true&title_color=003366&icon_color=007ACC&text_color=333333&bg_color=ffffff" alt="GitHub Stats" /> 
-
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael17cordeiro&layout=compact&hide_border=true&title_color=003366&text_color=333333&bg_color=ffffff" alt="Top Languages" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafael17cordeiro&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=00000000" alt="GitHub Stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael17cordeiro&layout=compact&hide_border=true&title_color=1E90FF&text_color=ff91a4&bg_color=00000000" alt="Top Languages" />
 
 
 </div>
