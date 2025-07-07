@@ -39,9 +39,10 @@
 🎓 These technologies are part of my academic background in Computer Science, focusing on web development, programming, and testing.
 
 ---
+## 📫 Contact
 
 <div align="center">
-## 📫 Contact
+
 
 
 
