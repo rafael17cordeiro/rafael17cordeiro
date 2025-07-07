@@ -2,8 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-# 👋 Hello, I'm Rafael Cordeiro
-
 <p>
   <img src="https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=30&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+from+Portugal;Welcome+to+my+GitHub!" />
 </p>
