@@ -1,10 +1,6 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
-
-<h1>Hi there! 👋 I'm Rafael Cordeiro</h1>
-<h3>💻 Computer Science Student | 🇵🇹 Portugal</h3>
-
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=28&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer+in+Training;Passionate+about+Technology+and+Innovation;Welcome+to+my+GitHub!" />
 </p>
