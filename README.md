@@ -8,9 +8,7 @@
 ---
 
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafael17cordeiro&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=00000000" alt="GitHub Stats" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael17cordeiro&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=00000000" alt="Top Languages" />
-
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Rafael+Cordeiro;Computer+Engineering+Student;Always+Learning+New+Things" alt="Typing SVG" /> </div> <br> <div align="center"> <table> <tr> <td> <img height="195px" src="https://github-readme-stats.vercel.app/api?username=rafael17cordeiro&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=00C8FF&text_color=E0E0E0&bg_color=30,000000,434343" /> </td> <td> <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael17cordeiro&layout=compact&hide_border=true&title_color=FFFFFF&text_color=E0E0E0&bg_color=30,000000,434343" /> </td> </tr> </table> </div>
 ---
 
 ### 🧠 Technologies & Tools Learned
