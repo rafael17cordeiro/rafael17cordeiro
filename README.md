@@ -8,8 +8,15 @@
 ---
 
 
+<!-- CORE STATS -->
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafael17cordeiro&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=00000000" alt="GitHub Stats" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael17cordeiro&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=00000000" alt="Top Languages" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael17cordeiro&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=00000000" alt="Top Languages" />
+
+<!-- EXTRA GRAPHS -->
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=rafael17cordeiro&hide_border=true&background=00000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafael17cordeiro&theme=transparent" alt="Profile Details" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafael17cordeiro&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true" alt="Commit Graph" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=rafael17cordeiro&margin-w=5&theme=onestar&no-bg=true&no-frame=true&title=Followers,Stars,Commit,Repositories,PullRequest" alt="Trophies" />
 
 ---
 
