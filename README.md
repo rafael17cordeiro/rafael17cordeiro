@@ -25,7 +25,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-5C2D91?logo=visual-basic&logoColor=white&style=for-the-badge)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=for-the-badge)
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" height="40"/>
+
 
 
 
