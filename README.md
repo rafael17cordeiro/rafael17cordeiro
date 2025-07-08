@@ -12,14 +12,6 @@
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafael17cordeiro&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=00000000" alt="GitHub Stats" />
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael17cordeiro&layout=compact&hide_border=true&title_color=1E90FF&text_color=FFFFFF&bg_color=00000000" alt="Top Languages" />
 
-<!-- EXTRA GRAPHS -->
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=rafael17cordeiro&hide_border=true&background=00000000&stroke=FFFFFF&ring=1E90FF&fire=1E90FF&currStreakNum=FFFFFF&currStreakLabel=1E90FF&sideLabels=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafael17cordeiro&theme=transparent&title_color=1E90FF&text_color=FFFFFF" alt="Profile Details" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafael17cordeiro&bg_color=00000000&color=FFFFFF&line=1E90FF&point=1E90FF&hide_border=true" alt="Commit Graph" />
-
-
 ### 🧠 Technologies & Tools Learned
 
 <div align="center">
