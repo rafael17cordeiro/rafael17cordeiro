@@ -19,8 +19,6 @@
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafael17cordeiro&bg_color=00000000&color=FFFFFF&line=1E90FF&point=1E90FF&hide_border=true" alt="Commit Graph" />
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=rafael17cordeiro&margin-w=5&theme=onestar&no-bg=true&no-frame=true&title=Followers,Stars,Commit,Repositories,PullRequest&title_color=1E90FF&text_color=FFFFFF" alt="Trophies" />
-
 
 ### 🧠 Technologies & Tools Learned
 
