@@ -5,12 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=30&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+from+Portugal;Welcome+to+my+GitHub!" />
 </p>
 
----
 
 
 <!-- CORE STATS -->
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafael17cordeiro&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=00000000" alt="GitHub Stats" />
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael17cordeiro&layout=compact&hide_border=true&title_color=1E90FF&text_color=FFFFFF&bg_color=00000000" alt="Top Languages" />
 
 ### 🧠 Technologies & Tools Learned
 
