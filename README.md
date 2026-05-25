@@ -81,13 +81,10 @@ Currently, my goal is to finish my Bachelor's degree and pursue a Master's to fu
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafael17cordeiro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael17cordeiro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" height="195" />
+  <img alt="rafael17cordeiro's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rafael17cordeiro?cardType=level&background=transparent&border=transparent&title=ffffff&text=ffffff&icon=1e90ff&ring=1e90ff&fontFamily=Segoe%20UI&preferLogin=false" height="195" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafael17cordeiro&bg_color=transparent&hide_border=true&title_color=ffffff&color=ffffff&line=1e90ff&point=1e90ff&area_color=1e90ff&area=true" height="195" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafael17cordeiro&theme=tokyonight&bg_color=0D1117&hide_border=true&area=true" width="100%" />
-</p>
 
 ---
 
