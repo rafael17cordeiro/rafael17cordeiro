@@ -42,9 +42,8 @@ Currently, my goal is to finish my Bachelor's degree and pursue a Master's to fu
 
 <br><br>
 
----
 
-<br><br>
+
 
 # 🛠️ Technologies & Tools
 
@@ -69,10 +68,10 @@ Currently, my goal is to finish my Bachelor's degree and pursue a Master's to fu
 
 <br><br>
 
----
 
 
-### 📊 GitHub Stats
+
+## 📊 GitHub Stats
 
 <p align="left">
   <img alt="rafael17cordeiro's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rafael17cordeiro?cardType=level&background=transparent&border=transparent&title=ffffff&text=ffffff&icon=1e90ff&ring=1e90ff&fontFamily=Segoe%20UI&preferLogin=false" height="195" />
@@ -80,9 +79,9 @@ Currently, my goal is to finish my Bachelor's degree and pursue a Master's to fu
 </p>
 
 
----
+<br><br>
 
-### 🐍 Contribution Graph
+## 🐍 Contribution Graph
 
 <div align="center">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/rafael17cordeiro/rafael17cordeiro/output/github-contribution-grid-snake-dark.svg" />
