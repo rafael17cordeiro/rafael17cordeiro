@@ -48,7 +48,7 @@ Currently, my goal is to finish my Bachelor's degree and pursue a Master's to fu
 # 🛠️ Technologies & Tools
 
 
-<div>
+<div align="center">
 
 
 <img src="https://img.shields.io/badge/-html5-E34F26?style=flat&logo=html5&logoColor=white" />
