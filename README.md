@@ -30,7 +30,7 @@ Currently, my goal is to finish my Bachelor's degree and pursue a Master's to fu
           <li><b>Responsive UI/UX Design:</b> A fully responsive, modern interface built to provide a seamless shopping experience across all desktop and mobile devices.</li>
           <li><b>Personalized User Dashboard:</b> Dedicated profile pages where clients can manage their accounts and track their complete order history.</li>
         </ul>
-        <p align='center'>
+        <p>
           <a href="https://github.com/PAP-Claudia-e-Filhos-LDA/PAP-Claudia-e-Filhos-HTML" target="_blank">
             <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
