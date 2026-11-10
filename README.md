@@ -15,33 +15,6 @@ Currently, my goal is to finish my Bachelor's degree and pursue a Master's to fu
 
 <br><br><br>
 
-# 🏆 Featured Project
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <h3  align="center">🛒 Cláudia & Filhos LDA — Full-Stack E-Commerce Platform</h3>
-        <p>My <b>PAP (Professional Aptitude Project)</b>: a complete online food delivery web application developed from scratch to digitalize a local business. Built with <b>PHP, HTML, CSS, and JavaScript</b>.</p>
-        <ul>
-          <li><b>Secure User Authentication:</b> Complete registration and login system with secure session management.</li>
-          <li><b>End-to-End Shopping System:</b> Fully functional cart and checkout process for users to easily place orders.</li>
-          <li><b>Automated Email Confirmations:</b> Real-time email notifications (via Mailtrap) for both account creation and purchase invoices.</li>
-          <li><b>Responsive UI/UX Design:</b> A fully responsive, modern interface built to provide a seamless shopping experience across all desktop and mobile devices.</li>
-          <li><b>Personalized User Dashboard:</b> Dedicated profile pages where clients can manage their accounts and track their complete order history.</li>
-        </ul>
-        <p>
-          <a href="https://github.com/PAP-Claudia-e-Filhos-LDA/PAP-Claudia-e-Filhos-HTML" target="_blank">
-            <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br><br>
-
 
 
 
